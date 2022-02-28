@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fortunate change: being a panegyrick to His Sacred Maiesty, King Charls the second, immediately on his coronation, being the 23. of April 1661. By Carew Reynell, Esq;</title>
+            <author>Reynell, Carew, 1636-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91724</idno>
+            <idno type="STC">Wing R1214</idno>
+            <idno type="STC">Thomason E1080_19</idno>
+            <idno type="STC">ESTC R207883</idno>
+            <idno type="EEBO-CITATION">99866906</idno>
+            <idno type="PROQUEST">99866906</idno>
+            <idno type="VID">119194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fortunate change: being a panegyrick to His Sacred Maiesty, King Charls the second, immediately on his coronation, being the 23. of April 1661. By Carew Reynell, Esq;</title>
+                  <author>Reynell, Carew, 1636-1690.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Herringman, at the Anchor in the Lower walk in the New Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Differs from the second edition in having a comma after "second" in title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119194:1" rendition="simple:additions"/>
+            <p>The Fortunate Change: BEING A PANEGYRICK TO HIS SACRED MAIESTY, King Charls the Second, <hi>Immediately on his</hi> Coronation, <hi>being the</hi> 23. <hi>of</hi> April 1661.</p>
+            <p>By <hi>Carew Reynell,</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Herringman,</hi> at the <hi>Anchor</hi> in the Lower walk in the New Exchange. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:119194:2"/>
+            <pb facs="tcp:119194:2"/>
+            <head>The Fortunate Change: BEING A PANEGYRICK TO HIS SACRED MAIESTY, Immediately on his <hi>Coronation.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">H</seg>Ow tranquill are we grown, who heretofore</l>
+            <l>Were haras'd by the
+<note n="(a)" place="margin">The Covenant, which was the cauſe of our diſtem<g ref="char:EOLhyphen"/>pers, had its Origine from <hi>Scotland.</hi>
+               </note> 
+               <hi>Caledonian Boar!</hi>
+            </l>
+            <l>Was ever ſuch a Change! from Stygian grief</l>
+            <l>To mount to Heavenly joy! 't were paſt belief,</l>
+            <l>But that our eyes ſo plainly ſee't, and we</l>
+            <l>Are drunk already with our liberty.</l>
+            <l>O Noble <hi>Britains!</hi> now the King's our own,</l>
+            <l>Eſtabliſh'd, <hi>Crown'd,</hi> and in the <hi>Regal</hi> Throne:</l>
+            <l>Whoſe dazling luſtre there makes all confeſſe,</l>
+            <l>That in his <hi>Scepter</hi> lies our happineſſe.</l>
+            <l>When firſt he was invited to come in,</l>
+            <l>Joy ſtruck the <hi>Dutch</hi> ſtark mad, whoſe <hi>Rummerkin</hi>
+            </l>
+            <l>A minute ne're ſtood ſtill: to him they drunk</l>
+            <l>
+               <hi>Rheniſh</hi> enough whole <hi>Dorps</hi> for to have ſunk;</l>
+            <l>And then they would not leave the buſineſſe ſo</l>
+            <l>But they muſt feaſt him too before he go.</l>
+            <l>Ten dayes together did the <hi>Canons</hi> roar</l>
+            <l>Till that he parted from rough <hi>Schiveling</hi>-ſhore.</l>
+            <l>When whiſtling winds did give him paſſage ſweet,</l>
+            <l>Unto fair <hi>Albion</hi>'s Iſle; where the proud <hi>Fleet</hi>
+            </l>
+            <l>Ne're rang ſuch peals of <hi>Ord'nance:</hi> For the Thunder</l>
+            <l>Pleas'd loyal <hi>Kentiſh,</hi> but was <hi>French-men</hi>'s wonder.</l>
+            <l>The <hi>Engliſh</hi> leap'd to ſee their long'd-for Prince,</l>
+            <l>And vow'd that they were never happy ſince</l>
+            <l>His abſence from them: and all perſons ſtrove</l>
+            <l>Which ſhould out-do each other in their love.</l>
+            <l>The body of the <hi>Gentry</hi> did appear,</l>
+            <l>And <hi>Citie</hi> too, to own their <hi>Soveraign dear.</hi>
+            </l>
+            <l>Their Souls and Veſt'ments glitter'd both that day</l>
+            <l>Joying him home the twenty nineth of <hi>May.</hi>
+            </l>
+            <l>Freſh glories did the <hi>Coronation</hi> ſhew</l>
+            <l>The glorious <hi>Prince</hi> hath made his <hi>Subjects</hi> ſo.</l>
+            <l>The <hi>Triumphs</hi> of the <hi>Antients</hi> mean appear,</l>
+            <l>If we compare them with our <hi>Splendour</hi> here.</l>
+            <l>
+               <pb n="2" facs="tcp:119194:3"/>
+The bravery of <hi>Metalls, Gemms,</hi> and <hi>Art</hi>
+            </l>
+            <l>Were proſtrate then, their <hi>glories</hi> to impart</l>
+            <l>Unto the <hi>Nobles, Cavalry,</hi> and thoſe</l>
+            <l>Who did their <hi>Sacred Soveraign</hi> encloſe.</l>
+            <l>The City <hi>beautifi'd</hi> their ſtreets, and built</l>
+            <l>Lofty, and <hi>ſpeaking Arches richly gilt,</hi>
+            </l>
+            <l>As if the <hi>Heavens</hi> to the <hi>Earth</hi> did bow,</l>
+            <l>So things were <hi>Pompous</hi> and <hi>Magnifique</hi> now.</l>
+            <l>Amongſt the throngs <hi>(Great Charls)</hi> that preſs to ſee,</l>
+            <l>Pardon if I approach your <hi>Majeſty.</hi>
+            </l>
+            <l>And Oh! that I could paſſion forth my Love,</l>
+            <l>That all the World might in a paſſion move</l>
+            <l>Of higheſt Joy.</l>
+            <l>
+               <hi>Caſtalian</hi> moiſture, and the <hi>Phoebean</hi> fire</l>
+            <l>Now Juvenize my <hi>Muſe,</hi> my Soul inſpire,</l>
+            <l>That from the Centre of my raptur'd heart,</l>
+            <l>My ſwelling joyes may burſt, and ſo impart</l>
+            <l>Themſelves to thoſe, whoſe loyal ſpirits know</l>
+            <l>To value <hi>Majeſty,</hi> and what we owe</l>
+            <l>To ſuch high Fortune, that with full Career</l>
+            <l>Runs to all Quarters of our <hi>Hemi-ſphaere.</hi>
+            </l>
+            <l>And he that will not now let's heart run o're</l>
+            <l>With vaſt content, ſhall ne're be happy more,</l>
+            <l>By my conſent.</l>
+            <l>Prince of the World, whom Heavenly Powers deſign,</l>
+            <l>And Nature too doth with the Gods combine,</l>
+            <l>For to unravel all their ſtock of Art,</l>
+            <l>To ſhew what to the World they can impart,</l>
+            <l>In framing you to be, juſt as you are,</l>
+            <l>Beyond what we, poor Mortals, can compare.</l>
+            <l>But then again of ſo Divine a Race,</l>
+            <l>There is but one on Earth aſſumes the place,</l>
+            <l>Which makes your Subjects proud, that they poſſeſs</l>
+            <l>Your perſon, whoſe ſole value is no leſs</l>
+            <l>Than all the Orb beſide. <hi>Great Sir</hi> 'tis you</l>
+            <l>That makes us great, and makes us vertuous too.</l>
+            <l>O! you are good, too good to be abus'd,</l>
+            <l>Thus to be dealt with, and ſo baſely us'd</l>
+            <l>
+               <note n="(b)" place="margin">The Schiſmaticks of all ſorts, that oppoſe the Church of <hi>England,</hi> or Mo<g ref="char:EOLhyphen"/>narchy, by their former, and continued plottings.</note> By ſome, whoſe ugly, black, and Helliſh Souls</l>
+            <l>Are liſted in the firſt of <hi>Plutoe's</hi> rowls.</l>
+            <l>Death in a thouſand ſhapes for puniſhment</l>
+            <l>Would not be equal to their vile intent:</l>
+            <l>Who to affront your <hi>Soveraign Power</hi> make bold;</l>
+            <l>Would unthrone <hi>God Almighty</hi> if they could.</l>
+            <l>But loyal Subjects by ſuch foils as theſe,</l>
+            <l>I hope, ſeem brighter to your <hi>Kingly</hi> eyes.</l>
+            <l>
+               <note n="(c)" place="margin">For otherwiſe men of ill principles will wind in themſelves to the Court, and other Offices of the Nation by Money and ſuch ſhifts, and under the vizard of ſeeming Loyalty, endeavour to diſadvantage the Royal and National intereſt.</note> Countenance thoſe, <hi>brave Prince,</hi> and thoſe alone;</l>
+            <l>So ſhall you have a ſure eſtabliſh'd Throne.</l>
+            <l>For if to <hi>Heretick</hi> in <hi>Church</hi> or <hi>State</hi>
+            </l>
+            <l>You give an <hi>Inch,</hi> they'l take an <hi>Ell,</hi> and
+<note n="(d)" place="margin">Witneſſe, after the King's extreme mild Eccle<g ref="char:EOLhyphen"/>ſiaſtick Declaration, they had the impudence to print and ſay, the King ought to ſtand to the Covenant ta<g ref="char:EOLhyphen"/>ken, though his Majeſty own'd his crime in taking it, which ſome ill men had for<g ref="char:EOLhyphen"/>ced on him: &amp; commanded a forgetfulneſſe of it.</note> prate</l>
+            <l>Their wild Opinions to the Multitude,</l>
+            <l>Who'l know no reaſon, but from hand that's rude.</l>
+            <l>Laugh we upon them, like the <hi>Black-Moor,</hi> they</l>
+            <l>Will cut our Throats; well Cudgel'd, they'l obey.</l>
+            <l>
+               <pb n="5" facs="tcp:119194:3"/>
+VVhat would men have? No People's like us free.</l>
+            <l>We've beſt <hi>Religion,</hi> beſt <hi>Propriety.</hi>
+            </l>
+            <l>All Nations court our <hi>true-fram'd Church,</hi> and boaſt</l>
+            <l>Of all <hi>Reform'd</hi> we are <hi>Reformed</hi> moſt.</l>
+            <l>But we have found the cheat; for now we're ſure</l>
+            <l>
+               <note n="(e)" place="margin">To take away proper<g ref="char:EOLhyphen"/>ty, and alter the Govern<g ref="char:EOLunhyphen"/>ment in Church and State.</note> Their aim's to be moſt wicked and impure.</l>
+            <l>For never <hi>honeſt</hi> man, and <hi>Learned</hi> both,</l>
+            <l>Did write 'gainſt <hi>Engliſh Laws</hi> or <hi>Subject's Oath,</hi>
+            </l>
+            <l>Or elſe 'gainſt
+<note n="(f)" place="margin">They have the moſt antient Right to ſit in Par<g ref="char:EOLhyphen"/>liament, who with the Lords heretofore made up the King's great Council with<g ref="char:EOLhyphen"/>out the Commons.</note> 
+               <hi>Biſhops, Liturgy,</hi> or <hi>Rites,</hi>
+            </l>
+            <l>They are the <hi>Nerves</hi> which parts to th' whole unites.</l>
+            <l>They who will not at leaſt thoſe <hi>props</hi> maintain</l>
+            <l>Are all <hi>Phanatiques</hi> in the higheſt ſtrain.</l>
+            <l>No Nation needs more plagues than this alone</l>
+            <l>That they a
+<note n="(g)" place="margin">Half Epiſcop. and half Presbyt.</note> 
+               <hi>Linſy-woolſey-Church</hi> muſt own.</l>
+            <l>'Tis <hi>Union, Sir,</hi> and <hi>Uniformity</hi>
+            </l>
+            <l>Make's us all happy in your <hi>Kingdoms</hi> three.</l>
+            <l>Let <hi>Countrey</hi> plat their grounds, contrive their <hi>Farms;</hi>
+            </l>
+            <l>And <hi>City</hi> mind their <hi>Shops,</hi> not Neighbour's harms.</l>
+            <l>Let <hi>Paſtors</hi> teach their <hi>Flocks</hi> true <hi>Faith and Love,</hi>
+            </l>
+            <l>And not <hi>Sedition,</hi> or <hi>Superiours</hi> move,</l>
+            <l>Or tell cloſe Counſels, lies, or publick news</l>
+            <l>In <hi>Pariſh-Church</hi> the people to abuſe.</l>
+            <l>This was their trade whereby
+<note n="(h)" place="margin">They were the Incen<g ref="char:EOLhyphen"/>diaries that ſet the Nation on fire, and then kept it blazing till they were at laſt even burnt in their own flames, and look'd upon by the then prevailing party as uſeleſſe Creatures.</note> themſelves they damn'd</l>
+            <l>And Souls as faſt as that men's Souls were fram'd.</l>
+            <l>VVhat <hi>Laws,</hi> or <hi>King</hi> and <hi>Biſhop</hi> do appoint</l>
+            <l>They ſpit at Heaven who give a publique taint.</l>
+            <l>They who the <hi>King's co-ercive</hi> power deny</l>
+            <l>In <hi>Church-Affairs</hi> ſmell rank of <hi>Popery.</hi>
+            </l>
+            <l>But now no more of this: Our <hi>King</hi> is wiſe,</l>
+            <l>Hath beſt experience and diſcerning eyes.</l>
+            <l>Leave but the State to him, we need not fear,</l>
+            <l>Let every Subject mind his proper ſphear.</l>
+            <l>Drown'd with delights I am to think that we</l>
+            <l>Have ſuch a <hi>Monarch,</hi> ſuch a <hi>Monarchy.</hi>
+            </l>
+            <l>Our
+<note n="(i)" place="margin">We have the unity of a Monarchy, as alſo its noble<g ref="char:EOLhyphen"/>neſſe and gallantry, the be<g ref="char:EOLhyphen"/>nefit of an Ariſtocracy, and more true liberty and pro<g ref="char:EOLhyphen"/>priety than any Common<g ref="char:EOLhyphen"/>wealth.</note> 
+               <hi>Government</hi> ſo fram'd, we have all's good</l>
+            <l>In any <hi>Nation</hi> of our <hi>Neighbour-hood.</hi>
+            </l>
+            <l>The <hi>King's Supreme,</hi> whoſe
+<note n="(k)" place="margin">They are but very weak and raw States-men, that think the juſt preroga<g ref="char:EOLhyphen"/>tive is oppoſite to the Sub<g ref="char:EOLhyphen"/>jects good; that being the chief thing, that keeps us from inteſtine broils, that's the peaceful Arbitratour.</note> juſt <hi>Prerogative</hi>
+            </l>
+            <l>Is ſo well built, as makes our Nation thrive.</l>
+            <l>He makes our Laws: both the Eſtates conſent:</l>
+            <l>But the two <hi>Houſes</hi> are no <hi>Parliament.</hi>
+            </l>
+            <l>Yet in oppoſing any of the three</l>
+            <l>VVe baniſh Native <hi>Right</hi> and <hi>Property.</hi>
+            </l>
+            <l>For though ſome were, who cut us out our <hi>Commons,</hi>
+            </l>
+            <l>And would have had us fed as once the <hi>Romans:</hi>
+            </l>
+            <l>Yet trying all deſigns at laſt we came</l>
+            <l>Moſt willingly to our <hi>Monarchick</hi> frame.</l>
+            <l>For all the reſt, they were ſo baſely vain</l>
+            <l>They did undo us in a <hi>Saint-like</hi> ſtrain.</l>
+            <l>But <hi>God</hi> be praiſed, now our wiſhes are,</l>
+            <l>To be juſt
+<note n="(l)" place="margin">As we were for antient Laws and Government, not as we were for heart-burn<g ref="char:EOLhyphen"/>ings and tumultuous up<g ref="char:EOLhyphen"/>roars.</note> as we were before this War.</l>
+            <l>And had we
+<note n="(m)" place="margin">Theſe were extreme able Men for politick abili<g ref="char:EOLhyphen"/>ties, and really meant well for the publique.</note> 
+               <hi>Laud</hi> and <hi>Strafford</hi> once again</l>
+            <l>Wee'd kiſſe their foot-ſteps, and adore their train.</l>
+            <l>Our <hi>Church</hi> is glorious, to whoſe purity</l>
+            <l>
+               <hi>Apoſtles, Fathers, Moderns</hi> do agree.</l>
+            <l>
+               <pb n="6" facs="tcp:119194:4"/>
+               <hi>Luther</hi> and <hi>Calvin</hi> did the World improve:</l>
+            <l>Yet had great Crimes, with which we bear in love.</l>
+            <l>The one did err in point of <hi>Sacrament;</hi>
+            </l>
+            <l>The
+<note n="(n)" place="margin">Though he had many ſcandalous opinions in Diſ<g ref="char:EOLhyphen"/>cipline, and ſome points of Doctrine, yet he was for a publick Liturgy, from which no man of whatever Emi<g ref="char:EOLhyphen"/>nency might recede.</note> other damn'd more than was <hi>God's</hi> intent.</l>
+            <l>But Oh, the <hi>Church of England</hi> far out-ſhines</l>
+            <l>All <hi>Europe</hi> elſe for learn'd and choice <hi>Divines.</hi>
+            </l>
+            <l>She warn'd by others Crimes laid bleſt foundations,</l>
+            <l>Not mix'd with <hi>Rome</hi> or <hi>Schiſme's</hi> deformations.</l>
+            <l>
+               <note n="(o)" place="margin">Any of theſe men not only went beyond <hi>Calvin,</hi> or the beſt Modern Divines their <hi>Antagoniſts,</hi> but even in abilities and Orthodoxy e<g ref="char:EOLhyphen"/>quall'd, if not excell'd many of the Antient Fathers.</note> 
+               <hi>Jewel,</hi> and <hi>Davenant, Morton, Uſher, Hall,</hi>
+            </l>
+            <l>
+               <hi>Andrews,</hi> and <hi>Prideaux</hi> did her <hi>Mother</hi> call.</l>
+            <l>
+               <hi>Brownrigge</hi> with <hi>Featly</hi> and great <hi>Hammond</hi> too,</l>
+            <l>And of that judgement we have
+<note n="(p)" place="margin">We have now Biſhops and Doctors of the Church farre excelling any <hi>Europe</hi> hath again. So that I won<g ref="char:EOLhyphen"/>der at the impudence of ſome Perſons, that dare ſo affront God to his face, in preſu<g ref="char:EOLhyphen"/>ming ſo farre againſt his An<g ref="char:EOLhyphen"/>gels of the Churches.</note> hundreds moe,</l>
+            <l>
+               <hi>Giants</hi> in Divinity which have deſerts</l>
+            <l>Beyond compare of any forein parts.</l>
+            <l>Theſe are the men I ſpeak of when I name</l>
+            <l>The <hi>Church of England</hi> of un-ſpotted fame.</l>
+            <l>I do not mean thoſe <hi>Quacks</hi> which equal all:</l>
+            <l>Skip up in <hi>Cloaks</hi> and tell the World a tale.</l>
+            <l>Preach <hi>non-conformity,</hi> and noiſome are</l>
+            <l>To all good <hi>Chriſtians;</hi> for they breed a War</l>
+            <l>Where e're they come. Oh! no, 'tis ſuch as theſe</l>
+            <l>Defile our Nation with their
+<note n="(q)" place="margin">When the Cove<g ref="char:EOLhyphen"/>nanters wrote to the forein Churches their deſigne, they ſhewed a general diſlike to it, eſpecially <hi>Diodati,</hi> who, as ſaith a French Author, wrote to them earneſtly to cleave to the King, and leave off defaming the Chriſtian Religion by their rebellious actings.</note> frauds and lies.</l>
+            <l>A <hi>Surplice</hi> choaks them: for that guilty crew</l>
+            <l>That <hi>Sacred badge</hi> of innocence ne're knew.</l>
+            <l>Their works are dark and bloudy; for they wait</l>
+            <l>A time to garble both the <hi>Church and State.</hi>
+            </l>
+            <l>Were <hi>Argus</hi> with us and his hundred eyes</l>
+            <l>He ne're would find their <hi>Cabal-Myſteries.</hi>
+            </l>
+            <l>To ſpeak the truth, themſelves they do not know</l>
+            <l>What they would have, or why they teach men ſo.</l>
+            <l>But pride and gain 'tis makes them mad for action.</l>
+            <l>Oh! itching ſweetneſſe for to head a faction.</l>
+            <l>To be well rid of theſe 'tis happineſſe</l>
+            <l>Beyond the power of Art for to expreſſe.</l>
+            <l>But that which brings us peace, and makes us bleſt,</l>
+            <l>Is <hi>Charls</hi> our <hi>King,</hi> who ſweetly Crowns the reſt.</l>
+            <l>His rigidſt Enemies no fault can find</l>
+            <l>With any of his actions; and whoſe mind</l>
+            <l>Well underſtands the malice of his foes:</l>
+            <l>And themſelves better than themſelves he knows.</l>
+            <l>
+               <hi>Dread</hi> Sir, <hi>Great Caeſar,</hi> or the <hi>Macedon,</hi>
+            </l>
+            <l>Had they but half your troubles undergone;</l>
+            <l>Or had the hardy <hi>Man</hi> of <hi>Carthage</hi> ſeen</l>
+            <l>Your tugging task; All theſe had ſurely been</l>
+            <l>Startled in Soul at ſuch a ſtrange affair,</l>
+            <l>And ſunk into their Graves for meer deſpair.</l>
+            <l>But you did <hi>Envy's</hi> cruell'ſt Darts withſtand;</l>
+            <l>And direſt ſhock of fate did <hi>Counter-mand.</hi>
+            </l>
+            <l>As <hi>Eagles</hi> eyes pierce Sun and <hi>Heaven's roof:</hi>
+            </l>
+            <l>So you out-dar'd misfortunes, and were proof</l>
+            <l>'Gainſt rude Alarms: for there ſtill did reſt</l>
+            <l>A <hi>never-ſhaken courage</hi> in your breaſt.</l>
+            <l>Thus you endur'd, till pleaſant gales and loyal</l>
+            <l>Wafted you over to your <hi>Palace Royal.</hi>
+            </l>
+            <l>
+               <pb n="7" facs="tcp:119194:4"/>
+               <hi>Monk</hi> was <hi>God's Engine</hi> to bring this about:</l>
+            <l>If merits could win <hi>Heaven,</hi> that would do't.</l>
+            <l>
+               <hi>Great Prince,</hi> you're greater by unhappy fate,</l>
+            <l>And more
+<note n="(r)" place="margin">He is one of the greateſt Perſons this day on Earth, take him as a King, as a Gentleman, as a pious pru<g ref="char:EOLhyphen"/>dent Perſon and Father of his Country, or a Couragious Perſon and get highly Cle<g ref="char:EOLhyphen"/>ment.</note> accompliſh'd made for <hi>Church and State.</hi>
+            </l>
+            <l>That which the <hi>Rebels</hi> for your ruin deſign</l>
+            <l>Turns to a bleſſing by a power Divine.</l>
+            <l>For you have ſeen and ſuffer'd, done, and known,</l>
+            <l>And by experience made ſo much your own:</l>
+            <l>That if affairs call Nations to a view,</l>
+            <l>They cannot judge of things ſo well as you.</l>
+            <l>You ſpeak all <hi>Languages,</hi> you know all <hi>Arts,</hi>
+            </l>
+            <l>And perſons <hi>Eminent</hi> for Soul or parts.</l>
+            <l>The <hi>Princes Chief</hi> of our next <hi>Continent</hi>
+            </l>
+            <l>You know in perſon, and their hearts intent.</l>
+            <l>The <hi>intrigues</hi> of their <hi>States, Sir,</hi> you have found,</l>
+            <l>Which makes you able for to pick your ground.</l>
+            <l>And
+<note n="(ſ)" place="margin">Judge ye, whether we have not cauſe to bleſſe God for ſuch a Prince. Conſider really his parts, and then ye wiſe men of the World, let your hearts melt in his pre<g ref="char:EOLhyphen"/>ſence.</note> thus improv'd you come unto your <hi>Lands</hi>
+            </l>
+            <l>Bravely to ſtrengthen their enfeebled hands.</l>
+            <l>For in your abſence we were all undone:</l>
+            <l>
+               <hi>VVolves</hi> in <hi>Sheeps</hi> Cloathing did our <hi>Church</hi> o're-run.</l>
+            <l>
+               <hi>Propriety</hi> we loſt, nor had we <hi>Laws</hi>
+            </l>
+            <l>Nor yet <hi>Religion;</hi> but <hi>the Cauſe, the Cauſe</hi>
+            </l>
+            <l>Which ſtill was changed as new <hi>factions</hi> Roſe,</l>
+            <l>And <hi>plagues on plagues</hi> on us they did impoſe.</l>
+            <l>Till you came with your <hi>ſweetning hand,</hi> which brings</l>
+            <l>
+               <hi>Balm and Perfumes</hi> to change the worſt of things.</l>
+            <l>Oh! how already you have made us ſee</l>
+            <l>Your <hi>Wiſdom, Goodneſſe,</hi> and your <hi>Piety.</hi>
+            </l>
+            <l>For you no ſooner in your <hi>Countrey</hi> ſtood,</l>
+            <l>But founded <hi>bulwarks</hi> for their laſting good.</l>
+            <l>Which you by the <hi>Oblivion</hi> did declare,</l>
+            <l>And that we ſhould be perfect friends took care.</l>
+            <l>That great and <hi>factious Army</hi> out of hand</l>
+            <l>You by your ſacred Art did ſoon disband.</l>
+            <l>You gave free current to the <hi>good old Laws,</hi>
+            </l>
+            <l>And reſcu'd us out of the <hi>Lyon's jaws.</hi>
+            </l>
+            <l>But, <hi>Sir,</hi> your wiſdom never ſhin'd more clear</l>
+            <l>Than in the <hi>Church,</hi> whoſe <hi>Father</hi> you appear.</l>
+            <l>By ſtanding to th' <hi>Apoſtles Inſtitution</hi>
+            </l>
+            <l>Againſt the wicked <hi>Parity's Confuſion.</hi>
+            </l>
+            <l>By chooſing <hi>Biſhops</hi> truely good and Learn'd,</l>
+            <l>Whoſe piety by all is plain diſcern'd.</l>
+            <l>The very mean'ſt of thoſe <hi>Seraphick Souls</hi>
+            </l>
+            <l>Their <hi>Judgements</hi> out-weigh all <hi>Schiſmatick</hi> ſcrowls,</l>
+            <l>And are of <hi>value</hi> and <hi>Authority</hi>
+            </l>
+            <l>Above all <hi>fancies</hi> of the modern cry.</l>
+            <l>
+               <note n="(t)" place="margin">Did the Enemies of the Church of <hi>England</hi> know, what fond and undigeſted Churches theſe are, they would bite their tongues ra<g ref="char:EOLhyphen"/>ther than mention them.</note> 
+               <hi>Geneva, France, and Holland-Reformations</hi>
+            </l>
+            <l>Compar'd to ours are poor and ſinfull faſhions.</l>
+            <l>But I'le not ſpeak more of their rough-drawn mould:</l>
+            <l>Becauſe
+<note n="(u)" place="margin">I have heard many of them my ſelf wiſh it during my abode beyond Sea. The Synod of <hi>Dort</hi> they expreſs'd alſo their deſires for a Diſci<g ref="char:EOLhyphen"/>pline like <hi>England.</hi>
+               </note> they'd change for ours if they could.</l>
+            <l>For we are pure in Doctrine, and are bleſt</l>
+            <l>By that ſweet order which <hi>St. Paul</hi> expres'd.</l>
+            <l>Thou ſacred <hi>Order</hi> art that thing Divine,</l>
+            <l>Rules <hi>Heaven</hi> it ſelf: All things by thee combine.</l>
+            <l>
+               <pb n="8" facs="tcp:119194:5"/>
+Thou art a riddle to the vulgar <hi>Crew,</hi>
+            </l>
+            <l>Who cannot judge of things beyond their view.</l>
+            <l>But yet art <hi>Sacred,</hi> for the <hi>Antients</hi> they</l>
+            <l>Thoſe ranck'd with Beaſts that knew not <hi>Harmony.</hi>
+            </l>
+            <l>A ſilent crime in <hi>Doctrine</hi> leſſe offends</l>
+            <l>Our publicke peace and good, than that which tends</l>
+            <l>To break our union ſtamp'd with <hi>Churche's</hi> Seal,</l>
+            <l>That hurts but one; this laſt, the <hi>Common-weal.</hi>
+            </l>
+            <l>The learn'd of all the Nations, <hi>Sir,</hi> approve</l>
+            <l>Your <hi>Chapel-method,</hi> and your order love.</l>
+            <l>You are a ſecond <hi>Conſtantine</hi> to ſtay</l>
+            <l>Our <hi>Holy Church</hi> from falling to decay.</l>
+            <l>And <hi>Alfred-like</hi> in ſtate you love to ſee</l>
+            <l>
+               <hi>Juſtice</hi> run hand in hand with <hi>Libertie.</hi>
+            </l>
+            <l>That <hi>Royal Starr</hi> which at your birth did ſhine</l>
+            <l>We ſee did mark you out in Grand deſigne</l>
+            <l>For brave <hi>Atchievements.</hi> And your lookes appear,</l>
+            <l>That ſetling once your Nations void of fear</l>
+            <l>Your mind will carry you to <hi>Regions</hi> warm,</l>
+            <l>And <hi>Conquer</hi> all, who dare oppoſe your Arm:</l>
+            <l>Should <hi>French</hi> but <hi>Swagger, Paris</hi> were our own.</l>
+            <l>If <hi>Spaniard</hi> frown, his <hi>Mexico</hi> were gon.</l>
+            <l>How many Sprightly Ladds doe wait when you</l>
+            <l>Will call them out whole nations to ſubdue?</l>
+            <l>Now you have conquer'd hearts, methinks I ſee</l>
+            <l>
+               <hi>Empires</hi> doe homage to your <hi>Majeſtie.</hi>
+            </l>
+            <l>'Tis you we cleave to, <hi>Sir,</hi> and your deſires</l>
+            <l>Bend to your <hi>Subjects,</hi> whence comes mutual fires</l>
+            <l>Of ardent Love; the <hi>Prince</hi> and people joyn</l>
+            <l>By <hi>Eccleſiaſtick</hi> and by <hi>civill</hi> twine.</l>
+            <l>O! <hi>God</hi> of <hi>Heaven</hi> what ſhall we do</l>
+            <l>Our ſelves Sufficient Subjects for to ſhew</l>
+            <l>To him, whoſe love unto us ſo extends</l>
+            <l>That for our good his <hi>life and fortune</hi> ſpends!</l>
+            <l>Who by his preſence and his lovely charms</l>
+            <l>Stills our loud cryes, and takes us in his arms.</l>
+            <l>Heales them that will, and thoſe that will not, hee</l>
+            <l>Doth interpoſe himſelf, that they agree.</l>
+            <l>The <hi>Nobles, Biſhops, Gentry, Clergy,</hi> all</l>
+            <l>Join hands and hearts and <hi>Centre</hi> in <hi>White-hall.</hi>
+            </l>
+            <l>We are quiet now, and if we will our ſelves</l>
+            <l>We may avoid all rough-hewen <hi>rocks and Shelves.</hi>
+            </l>
+            <l>Then one and all cry <hi>Charles,</hi> for he alone</l>
+            <l>Hath wrought our bliſſe, gives ev'ry man his own</l>
+            <l>In recompence for which, <hi>Sir,</hi> this wee'l do</l>
+            <l>Give you our <hi>Hearts,</hi> our <hi>lives,</hi> and <hi>purſes</hi> too.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
